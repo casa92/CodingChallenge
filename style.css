@@ -1,0 +1,100 @@
+body {
+  background-image: url('background.jpg');
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: 0 0;
+  color: white;
+  font-family: 'Poppins', sans-serif;
+}
+
+
+.container {
+  width: 1000px;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 20px;
+  margin-bottom: 50px;
+  background-color: rgba(0,0,0,0.5);
+  border-radius: 15px;
+
+}
+
+header {
+  text-align: center;
+}
+
+nav {
+  width: 820px;
+  margin-left: auto;
+  margin-right: auto;
+  padding-top: 8px;
+  padding-bottom: 8px;
+  text-align: center;
+  background-color: rgba(0,221,0,255);
+}
+
+main {
+  width: 820px;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 20px;
+  padding-bottom: 90px;
+}
+
+ul {
+  padding-left: 16px;
+}
+
+button {
+  font-size: 10px;
+}
+
+
+.logo {
+  width: 210px;
+  margin-top: 80px;
+}
+
+.title-text {
+  color: rgba(0,221,0,255);
+  margin-top: 0;
+  margin-bottom: 5px;
+}
+
+.scooter-list {
+  width: 500px;
+  font-size: 12px;
+}
+
+.scooter {
+  margin-bottom: 20px;
+}
+
+.scooter-title {
+  font-size: 18px;
+  font-weight: bolder;
+}
+
+.scooter-text {
+  line-height: 23px;
+}
+
+.charge {
+  height: 22px;
+  border-radius: 5px;
+}
+
+.charge-1 {
+  background-color: rgba(245,180,83,255);
+  width: 60%;
+}
+
+.charge-2 {
+  background-color: rgba(30,195,30,255);
+  width: 100%;
+}
+
+.charge-3 {
+  background-color: rgba(190,65,65,255);
+  width: 30%;
+}
